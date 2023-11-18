@@ -1,1 +1,1 @@
-# katsu-curry
+Odin recipe project about katsu curry, yum!
